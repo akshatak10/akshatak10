@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akshatak10
 - 👀 I’m a code enthusiast
-- 🌱 I’m currently learning computer programming
+- 🌱 I’m currently learning Web-development
 - 💞️ I’m looking to collaborate on new ideas 
-- 📫 How to reach me IG: m._.akshat
+- 📫 You can reach me @email  - akshatrawatkv10@gmail.com
 
 <!---
 akshatak10/akshatak10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
